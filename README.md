@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Burak</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
-<img align="center" src="https://github.com/balagoz/balagoz/blob/output/github-contribution-grid-snake.gif" alt="burakhanalagoz"/>
+<img align="center" src="https://github.com/balagoz/balagoz/blob/output/github-contribution-grid-snake.svg" alt="burakhanalagoz"/>
 
 - 🌱 I’m currently learning **Microservices**
 
