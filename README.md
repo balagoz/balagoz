@@ -33,7 +33,7 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
   
   <h4 align="left">Backend Development</h4>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.iforium.com/wp-content/uploads/nodejs-new-pantone-white.png" alt="nodejs" width="45" height="35"/> </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.iforium.com/wp-content/uploads/nodejs-new-pantone-white.png" alt="nodejs" width="45" height="30"/> </a>
   
   <h4 align="left">AI/ML</h4>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
