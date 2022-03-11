@@ -56,6 +56,8 @@
    
   <h4 align="left">Framework</h4>
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/png_logo_vector/microsoft-net-framework-logo.png" alt="dotnet" width="40" height="40"/> </a>
+  
+  <h4 align="left">Static Site Generators</h4>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="nextjs" width="40" height="40"/> </a>
   
   <h4 align="left">Testing</h4>
