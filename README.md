@@ -9,19 +9,27 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/burakhanalagoz/](https://www.linkedin.com/in/burakhanalagoz/)
 
+
+
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<details>
-  <summary>:zap: Connect with me:</summary>
   
-<p align="left">
 <a href="https://twitter.com/burakhanalagoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="burakhanalagoz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/burakhanalagoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="burakhanalagoz" height="30" width="40" /></a>
 <a href="https://instagram.com/brkhnlgz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brkhnlgz" height="30" width="40" /></a>
 <a href="https://www.behance.net/scutoid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="scutoid" height="30" width="40" /></a>
   <a href="https://dev.to/balagoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="balagoz" height="30" width="40" /></a>
+  
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/burakhanalagoz)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/brkhnlgz)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/burakhanalagoz)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:burakhanalagoz@hotmail.com)
+  
 </p>
-</details>
-</p> 
+
+
+
 
 <p align="left">
 <details>
