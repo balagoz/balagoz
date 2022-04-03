@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Burak</h1>
-<h3 align="center">A passionate backend developer from Istanbul/Turkey</h3>
+<h3 align="center">A passionate Backend Developer from Istanbul/Turkey</h3>
 
 <img align="center" src="https://github.com/balagoz/balagoz/blob/output/github-contribution-grid-snake.svg" alt="burakhanalagoz"/>
 <hr/>
@@ -9,7 +9,6 @@
 - 📫 How to reach me **burakhanalagoz@hotmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/burakhanalagoz/](https://www.linkedin.com/in/burakhanalagoz/)
-<hr/>
 
 <h3 align="left">:zap: Connect with me:</h3>
 <p align="left">
@@ -21,6 +20,7 @@
   [![image](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/balagoz)
   
 </p>
+<hr/>
 
 <h3 align="left">👨🏻‍💻 Programming Languages:</h3>
 <p align="left">
@@ -98,12 +98,12 @@
   <br/>
   <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img alt="" src="" />
-  <img alt="" src="" />
-  <img alt="" src="" />
 </p>
 
 <h3 align="left">:zap: Support</h3>
 <p align="left">
     <a href="https://www.buymeacoffee.com/balagoz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="32" width="130" alt="balagoz" /></a>
-</p><br><br>
+</p><br><br><br><br>
+
+**Last Update:**
+*03.04.2022*
