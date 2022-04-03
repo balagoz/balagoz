@@ -11,7 +11,7 @@
 
 
 <details>
-  <summary>:zap: GitHub Stats <h3 align="left">Connect with me:</h3></summary>
+  <summary><h3 align="left">:zap: Connect with me:</h3></summary>
 <p align="left">
 <a href="https://twitter.com/burakhanalagoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="burakhanalagoz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/burakhanalagoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="burakhanalagoz" height="30" width="40" /></a>
@@ -19,9 +19,10 @@
 <a href="https://www.behance.net/scutoid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="scutoid" height="30" width="40" /></a>
   <a href="https://dev.to/balagoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="balagoz" height="30" width="40" /></a>
 </p>
+</details>
 
-
-<h3 align="left">Languages and Tools:</h3>
+<details>
+  <summary><h3 align="left">:zap: Languages and Tools:</h3></summary>
 <p align="left"> 
   <h4 align="left">Programming Languages</h4>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
@@ -64,10 +65,10 @@
   
   <h4 align="left">Testing</h4>
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
-  
 </p>
+</details>
 
-
-<h3 align="left">Support:</h3>
+<details>
+  <summary><h3 align="left">:zap: Support:</h3></summary>
 <p><a href="https://www.buymeacoffee.com/balagoz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="balagoz" /></a></p><br><br>
-
+</details>
