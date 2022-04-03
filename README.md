@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Burak</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Burak</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
 <img align="center" src="https://github.com/balagoz/balagoz/blob/output/github-contribution-grid-snake.svg" alt="burakhanalagoz"/>
@@ -9,7 +9,9 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/burakhanalagoz/](https://www.linkedin.com/in/burakhanalagoz/)
 
-<h3 align="left">Connect with me:</h3>
+
+<details>
+  <summary>:zap: GitHub Stats <h3 align="left">Connect with me:</h3></summary>
 <p align="left">
 <a href="https://twitter.com/burakhanalagoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="burakhanalagoz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/burakhanalagoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="burakhanalagoz" height="30" width="40" /></a>
