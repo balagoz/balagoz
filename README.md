@@ -4,7 +4,7 @@
 <img align="center" src="https://github.com/balagoz/balagoz/blob/output/github-contribution-grid-snake.svg" alt="burakhanalagoz"/>
 <hr/>
 
-- 🌱 I’m currently learning **Microservices**
+- 🌱 I’m currently learning **RPA**
 
 - 📫 How to reach me **burakhanalagoz@hotmail.com**
 
